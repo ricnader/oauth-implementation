@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "anXOGJQkbPplVhdyKrs9ppv8RHT5Rpw9qQA2eP4rBx0=",
+  "Source": "OauthModel.API",
+  "BasePath": "_content/OauthModel.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
